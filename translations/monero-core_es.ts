@@ -11,7 +11,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="61"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="63"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="72"/>
         <source>QRCODE</source>
-        <translation type="unfinished"></translation>
+        <translation>Código QR</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="94"/>
         <source>4...</source>
-        <translation type="unfinished"></translation>
+        <translation>4..</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="103"/>
@@ -41,32 +41,32 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="117"/>
         <source>Paste 64 hexadecimal characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar 64 caracteres hexadecimales</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="126"/>
         <source>Description &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción &lt;font size=&apos;2&apos;&gt;(Opcional)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="155"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="160"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="163"/>
         <source>Invalid address</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección inválida</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="167"/>
         <source>Can&apos;t create entry</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede añadir la entrada</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="128"/>
@@ -76,7 +76,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="139"/>
         <source>Give this entry a name or description</source>
-        <translation type="unfinished"></translation>
+        <translation>Añade un nombre o una descripción a la entrada</translation>
     </message>
 </context>
 <context>
@@ -84,7 +84,7 @@
     <message>
         <location filename="../components/AddressBookTable.qml" line="47"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation>No más resultados</translation>
     </message>
     <message>
         <location filename="../components/AddressBookTable.qml" line="104"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="../BasicPanel.qml" line="134"/>
         <source>Available Balance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Saldo disponible</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="147"/>
@@ -120,12 +120,12 @@
     <message>
         <location filename="../components/DaemonConsole.qml" line="108"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location filename="../components/DaemonConsole.qml" line="119"/>
         <source>command + enter (e.g help)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comando + enter (p.e. ayuda)</translation>
     </message>
 </context>
 <context>
@@ -133,17 +133,17 @@
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="84"/>
         <source>Starting Monero daemon in %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrancando daemon de Monero en %1 segundos</translation>
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="106"/>
         <source>Start daemon (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrancar daemon (%1)</translation>
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="123"/>
         <source>Use custom settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar configuraciones personalizadas</translation>
     </message>
 </context>
 <context>
@@ -156,7 +156,7 @@
     <message>
         <location filename="../pages/Dashboard.qml" line="89"/>
         <source>SEND</source>
-        <translation type="unfinished"></translation>
+        <translation>MANDAR</translation>
     </message>
     <message>
         <location filename="../pages/Dashboard.qml" line="102"/>
@@ -169,22 +169,22 @@
     <message>
         <location filename="../components/DashboardTable.qml" line="47"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation>No más resultados</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="137"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="170"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Saldo</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="190"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad</translation>
     </message>
 </context>
 <context>
@@ -192,27 +192,27 @@
     <message>
         <location filename="../pages/History.qml" line="70"/>
         <source> selected: </source>
-        <translation type="unfinished"></translation>
+        <translation> seleccionado</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="134"/>
         <source>Filter transaction history</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar historia de transacciones</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="145"/>
         <source>&lt;b&gt;Total amount of selected payments&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Cantidad totál de los pagos seleccionados&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="182"/>
         <source>Type for incremental search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Teclear para busqueda incremental</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="222"/>
         <source>Date from</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="224"/>
@@ -232,22 +232,22 @@
     <message>
         <location filename="../pages/History.qml" line="273"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="310"/>
         <source>Advanced filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtración avanzada</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="329"/>
         <source>Type of transaction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Típo de transacción</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="364"/>
         <source>Amount from</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad de</translation>
     </message>
 </context>
 <context>
@@ -255,7 +255,7 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="48"/>
         <source>Tx ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tx ID:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="49"/>
@@ -281,12 +281,12 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="78"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation>No más resultados</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="110"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalles</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="251"/>
